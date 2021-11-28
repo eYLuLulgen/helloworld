@@ -1,1 +1,0 @@
-'"Merhaba Dünya"' iletisini görüntüle
